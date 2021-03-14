@@ -1,5 +1,3 @@
----
-
 ```💎``` .NET Core İle Geliştirilmiş Bir Backend
 
 ---
